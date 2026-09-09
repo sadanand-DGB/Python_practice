@@ -23,17 +23,21 @@ A collection of Python programs and exercises created while learning and practic
 - Date and Time Handling
 - Unit Testing with unittest and pytest
 
-## Tools & Libraries
+## Folder Structure
 
-- Python
-- requests
-- unittest
-- pytest
-
-## Purpose
-
-This repository contains my Python learning, practice programs, and coding exercises.
-
-## Author
-
-**Sadanand Yadav**
+```text
+Python_practice/
+│
+├── Python Fundamentals/
+├── Data Structures/
+├── Functions/
+├── OOP/
+├── Exception Handling/
+├── File Handling/
+├── JSON/
+├── Logging/
+├── API/
+├── Datetime/
+├── unittest/
+├── pytest/
+└── README.md
